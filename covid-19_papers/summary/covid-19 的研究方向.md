@@ -78,7 +78,7 @@
 * Impacts of social and economic factors on the transmission of coronavirus disease (COVID-19) in China
   * 社会经济因素对中国冠状病毒病（COVID-19）传播的影响
 * Mobile phone data analytics against the COVID-19 epidemics in Italy- flow diversity and local job markets during the national lockdown
-  * 针对意大利COVID-19流行病的**手机数据分析-**国家封锁期间的流动多样性和当地就业市场
+  * 针对意大利COVID-19流行病的**手机数据分析**国家封锁期间的流动多样性和当地就业市场
 * Prediction of COVID-19 Outbreak in China and Optimal Return Date for University Students Based on Propagation Dynamics
   * 基于**传播动力学**的中国COVID-19暴发预测及**大学生**最佳归还**日期**
 
