@@ -2,14 +2,23 @@
 
 ####  model
 
-* A discrete stochastic model of the COVID-19 outbreak- Forecast and control
+* A discrete stochastic model of the COVID-19 outbreak- Forecast and control   
   * COVID-19爆发的**离散随机模型-预测与控制**
+  * medrxiv
+  * cite : 12
+  * [relative paper](https://scholar.google.com/scholar?sxsrf=ALeKk02r98cYV8bivpyEZ9BtBCY8DKg4dw:1593367448722&gs_lcp=CgZwc3ktYWIQAzoHCCMQ6gIQJ1Di8QJYqJoDYIifA2gBcAB4AoAB6AGIAegBkgEDMi0xmAEFoAECoAEBqgEHZ3dzLXdperABCg&uact=5&um=1&ie=UTF-8&lr&q=related:7ybab1rOAhJslM:scholar.google.com/)
+  * **SEIR**   model is appropriate to study the dynamic of this disease. The population is partitioned into subpopulations  as susceptible (S (t)), exposed (E(t)), infected (I(t)), hospitalized (H(t)), and recovered (R(t)).
+  * <font color='red'>可以细看下，有不少用了这个模型</font>
 * How many infections of COVID-19 there will be in the "Diamond Princess"-Predicted by a virus transmission model based on the simulation of crowd flow
   * “钻石公主”中将感染多少COVID-19-由基于**人群流动**模拟的病毒传播模型预测
+  * arxiv
+  * cite:10
 * How simulation modelling can help reduce the impact of COVID-19
   * **仿真建模**如何帮助减少COVID-19的影响
+  * cite:13
 * Mathematical model of infection kinetics and its analysis for COVID-19, SARS and MERS
   * COVID-19，SARS和MERS**感染动力学**的数学模型及其分析
+  * cite:10
 * Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy
   * 在意大利模拟COVID-19流行病并实施**全民干预**
 * Preparedness and vulnerability of African countries against importations of COVID-19- a modelling study
